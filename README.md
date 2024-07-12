@@ -10,7 +10,7 @@ Welcome! I'm a Frontend Web Developer passionate about making the web a more del
 * 🖥️  See my portfolio at [victorralves.pro](https://www.victorralves.pro)
 * ✉️  You can contact me at [mevictoralves@icloud.com](mailto:mevictoralves@icloud.com)
 * 🚀  I'm currently working on [AirWise Project](http://https://air-wise.vercel.app)
-* 🧠  I'm learning Express.js, MongoDB, Angular, SASS, TypeScript and many more!
+* 🧠  I'm learning Express.js, MongoDB, Angular, SASS and many more!
 * 🤝  I'm open to collaborating on I'm open to collaborating on any project that involves creative coding, web design, and improving digital experiences.
 * ⚡  I do believe that I can do the difference in the coding world! Feels easy and fun to learn, and I'm always eager to learn new things! I want to change my life with coding, and I trust that I can do that!
 
