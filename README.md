@@ -4,7 +4,7 @@ Hi 👋 My name is Victor Alves
 Welcome! I'm a Frontend Web Developer passionate about making the web a more delightful place.
 ----------------------------------------------------------------------------------------------
 
-"Frontend Web Developer | Creating Stunning User Interfaces" "JavaScript & React.js Specialist | Crafting Responsive and Dynamic Websites" "Passionate about Web Design | Building Intuitive and Interactive User Experiences" "Frontend Enthusiast | Bringing Ideas to Life with Code" "UI/UX Focused Frontend Developer | Enhancing Digital Experiences"
+"Frontend Web Developer | Creating Stunning User Interfaces | JavaScript & React.js Specialist | Crafting Responsive and Dynamic Websites | Passionate about Web Design | Building Intuitive and Interactive User Experiences | Frontend Enthusiast | Bringing Ideas to Life with Code | UI/UX Focused Frontend Developer | Enhancing Digital Experiences"
 
 * 🌍  I'm based in Brazil!
 * 🖥️  See my portfolio at [victorralves.pro](http://victorralves.pro)
