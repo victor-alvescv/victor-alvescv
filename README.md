@@ -4,10 +4,10 @@ Hi 👋 My name is Victor Alves
 Welcome! I'm a Frontend Web Developer passionate about making the web a more delightful place.
 ----------------------------------------------------------------------------------------------
 
-"Frontend Web Developer | Creating Stunning User Interfaces" "JavaScript & Vue.js Specialist | Crafting Responsive and Dynamic Websites" "Passionate about Web Design | Building Intuitive and Interactive User Experiences" "Frontend Enthusiast | Bringing Ideas to Life with Code" "UI/UX Focused Frontend Developer | Enhancing Digital Experiences"
+"Frontend Web Developer | Creating Stunning User Interfaces" "JavaScript & React.js Specialist | Crafting Responsive and Dynamic Websites" "Passionate about Web Design | Building Intuitive and Interactive User Experiences" "Frontend Enthusiast | Bringing Ideas to Life with Code" "UI/UX Focused Frontend Developer | Enhancing Digital Experiences"
 
 * 🌍  I'm based in Brazil!
-* 🖥️  See my portfolio at [victorralves.lat -> to change](http://victorralves.lat)
+* 🖥️  See my portfolio at [victorralves.pro](https://www.victorralves.pro)
 * ✉️  You can contact me at [mevictoralves@icloud.com](mailto:mevictoralves@icloud.com)
 * 🚀  I'm currently working on [AirWise Project](http://https://air-wise.vercel.app)
 * 🧠  I'm learning Express.js, MongoDB, Angular, SASS, TypeScript and many more!
